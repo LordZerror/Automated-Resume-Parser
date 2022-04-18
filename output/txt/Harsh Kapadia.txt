@@ -1,0 +1,131 @@
+(cid:128) harshkapadia.me # contact@harshkapadia.me (cid:239) linkedin.com/in/harshgkapadia § github.com/HarshKapadia2
+
+Harsh Kapadia
+
+Education
+
+Qualification
+BE in IT
+Grade 12
+Grade 10
+
+Skills
+
+Institute
+Thadomal Shahani Engineering College University of Mumbai
+PACE Junior Science College
+Gokuldham High School
+
+Board/University
+
+HSC
+ICSE
+
+CGPA/% Year
+9.07/10
+87.38%
+96.17%
+
+2022 (exp)
+2018
+2016
+
+Web: React.js, Node.js (Express.js), Flask, HTML, CSS, JS Languages: JavaScript, Java
+Databases: MySQL, MongoDB
+Tools: Git, Asciidoctor Jet, Adobe Illustrator, Figma
+
+Platforms: GitHub, Firebase, Heroku, Deta
+Mobile: React Native
+
+Experience
+
+NanoNet Technologies Inc.
+Software Intern
+
+Aug 2021 - Nov 2021
+
+• Published two Node.js SDKs on npm for their Optical Character Recognition and Image Classification REST APIs.
+• Migrated their API specification from Swagger 2.0 to OpenAPI 3.1.0.
+• npm packages: OCR | Image Classification
+
+GRT Global Logistics Pvt. Ltd.
+Software Testing Intern
+
+• Tested ERP software.
+
+Projects
+
+Git Graph | React.js, GitHub Pages
+
+Dec 2019
+
+Jan 2022 – present
+
+• A web app to visualize how Git connects Commit, Tree and Blob objects internally.
+• Takes an existing repository and generates the Directed Acyclic Graph that Git uses to connect objects internally.
+• Web app | GitHub
+
+git basics | Asciidoctor Jet, GitHub Pages
+
+Mar 2020 – present
+
+• A PWA and TWA for Git and GitHub concepts and commands.
+• Explains the internal working of Git along with various Git commands through articles and illustrations.
+• 500+ installs on Google Play and 90+ stars on GitHub.
+• PWA | Google Play Store | GitHub
+
+HPS Gems | HTML, CSS, JS, PHP, MySQL, Heroku
+
+Oct 2020 – Dec 2020
+
+• A JAMstack e-Commerce CRUD web app for selling raw gemstones.
+• A user can add items to their cart, place orders and view their shopping history and profile.
+• Uses the Fetch API to connect with the PHP API and the Web Components API to optimize rendering products.
+• Web app | GitHub
+
+Preview Markdown | React.js, CSS, JS, GitHub Pages
+
+• A web app that renders GitHub-styled markdown live.
+• Supports GitHub’s light and dark themed Markdown rendering.
+• Web app | GitHub
+Community Activity
+
+Our Tech Community (OTC)
+Founder
+
+Jun 2021
+
+Jan 2020 – present
+
+• A Tech-loving open-to-all community.
+• Hosted over 500 hours of weekly OTC CatchUp sessions since Oct 2020 involving project showcases and
+
+technical discussions.
+
+• ourtech.community | OTC CatchUp | Two years of OTC
+
+GitHub Campus Expert
+
+• One of the 82 students selected out of 8000+ applicants worldwide.
+• Campus Expert profile
+
+Talks
+
+Oct 2021 – present
+
+Jun 2020 – present
+
+• Impacted over 700 people in more than 16 sessions and workshops at various technical meetups on Git and GitHub.
+• talks.harshkapadia.me | YouTube
+
+Extracurricular Activity
+
+TSEC CodeCell
+Senior Committee Member
+
+• Organised two hackathons, TSEC Hacks 2020 and 2021.
+• Conducted a workshop on Git and GitHub. (YouTube)
+
+Sep 2019 – present
+
+
