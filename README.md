@@ -31,10 +31,10 @@ spaCy has different types of models.
 
 
 ## INSTALLING DEPENDENCIES:
-pip3 install spacy
-pip3 install pandas
-python3 -m spacy download en_core_web_sm
-pip3 install pdfminer
+* pip3 install spacy
+* pip3 install pandas
+* python3 -m spacy download en_core_web_sm
+* pip3 install pdfminer
 
 Github File: https://github.com/pdfminer/pdfminer.six/blob/master/tools/pdf2txt.py
 → Load the file in the repository
